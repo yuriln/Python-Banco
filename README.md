@@ -1,0 +1,1 @@
+Cenário de um banco com realização de saque, consulta de saldo e extrado, obdecendo as regras de negócio.
