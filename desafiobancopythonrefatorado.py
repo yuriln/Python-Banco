@@ -3,6 +3,7 @@ menu = """
 [2] SACAR
 [3] EXTRATO
 [4] SAIR
+
 """
 
 saldo = 300
